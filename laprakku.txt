@@ -1,4 +1,4 @@
-A 1 Amanda
-B 2 Boni
-C 3 Cinta
-D 4 Danu
+Jogja 20 Amanda
+Bandung 21 Boni
+Surabaya 20 Cinta
+Semarang 21 Danu
