@@ -1,0 +1,4 @@
+A 1 Amanda
+B 2 Boni
+C 3 Cinta
+D 4 Danu
